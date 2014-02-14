@@ -30,4 +30,46 @@
 	url = https://github.com/kien/ctrlp.vim.git
 [submodule "bundle/vim-themes"]
 	path = bundle/vim-themes
-	url = https://github.com/daylerees/colour-schemes.git
+  url = https://github.com/daylerees/colour-schemes.git
+[submodule "bundle/nerdcommenter"]
+  path = bundle/nerdcommenter
+  url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/nerdtree"]
+  path = bundle/nerdtree
+  url = https://github.com/scrooloose/nerdtree.git
+[submodule "bundle/node"]
+  path = bundle/node
+  url = https://github.com/myhere/vim-nodejs-complete.git
+[submodule "bundle/snipmate.vim"]
+  path = bundle/snipmate.vim
+  url = https://github.com/honza/vim-snippets.git
+[submodule "bundle/syntastic"]
+  path = bundle/syntastic
+  url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-airline"]
+  path = bundle/vim-airline
+  url = https://github.com/bling/vim-airline.git
+[submodule "bundle/vim-coffee-script"]
+  path = bundle/vim-coffee-script
+  url = https://github.com/kchmck/vim-coffee-script.git
+[submodule "bundle/vim-colors-solarized"]
+  path = bundle/vim-colors-solarized
+  url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/vim-colorschemes"]
+  path = bundle/vim-colorschemes
+  url = https://github.com/flazz/vim-colorschemes.git
+[submodule "bundle/vim-css3-syntax"]
+  path = bundle/vim-css3-syntax
+  url = https://github.com/hail2u/vim-css3-syntax.git
+[submodule "bundle/vim-rails"]
+  path = bundle/vim-rails
+  url = git://github.com/tpope/vim-rails.git
+[submodule "bundle/vim-sensible"]
+  path = bundle/vim-sensible
+  url = git://github.com/tpope/vim-sensible.git
+[submodule "bundle/vim-bundler"]
+	path = bundle/vim-bundler
+  url = git://github.com/tpope/vim-bundler.git
+[submodule "bundle/base16-vim"]
+	path = bundle/base16-vim
+	url = git://github.com/chriskempson/base16-vim.git
